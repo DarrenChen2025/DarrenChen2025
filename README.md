@@ -3,11 +3,13 @@
 <h3 align="center">A passionate college software engineer at UF</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
 
-- 🔭 I’m currently working on [devsearch](https://github.com/DarrenChen2025/devsearch)
+- 🔭 I’m currently working on [devsearch](https://devclub-097cd001ce35.herokuapp.com/login/)
 
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **darrenchencs@gmail.com**
+
+- ✅ Latest finished project [devsearch](https://devclub-097cd001ce35.herokuapp.com/login/)  
 
 - ⚡ Fun fact **I love building keyboards**
 
