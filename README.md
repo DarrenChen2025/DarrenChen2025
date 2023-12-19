@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/DarrenChen2025/Portfolio)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **darrenchencs@gmail.com**
 
