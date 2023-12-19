@@ -3,7 +3,7 @@
 <h3 align="center">A passionate college software engineer at UF</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
 
-- 🔭 I’m currently working on [My Portfolio](#)
+- 🔭 I’m currently working on [Portfolio](https://github.com/DarrenChen2025/Portfolio)
 
 - 🌱 I’m currently learning **Django**
 
